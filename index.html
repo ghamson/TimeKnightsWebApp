@@ -17,7 +17,7 @@
     <script type='text/javascript'>
       if ('serviceWorker' in navigator) {
       	window.addEventListener('load', () => {
-		navigator.serviceWorker.register('pwabuilder-sw-register.js')
+		navigator.serviceWorker.register('serviceworker.js')
 		.then(registration => {
 			console.log('Service Worker is registered', registration);
 		})
