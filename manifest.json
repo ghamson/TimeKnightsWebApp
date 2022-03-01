@@ -3,6 +3,7 @@
   "description": "Homebrew gameboy game created with GB Studio, wrapped in a progressive web app",
   "dir": "ltr",
   "display": "standalone",
+  "lang": "en-US",
   "name": "Magic & Legend: Time Knights",
   "orientation": "any",
   "scope": "/",
