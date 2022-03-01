@@ -27,6 +27,10 @@
      {
        "src": "icon/TimeKnightsIcon-256x256.png",
        "sizes": "72x72 96x96 128x128 256x256"
-     }
+     },
+     {
+       "src": "icon/TimeKnightsIcon-512x512.png",
+       "sizes": "512x512"
+     },
    ]
 }
