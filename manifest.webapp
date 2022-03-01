@@ -16,6 +16,7 @@
   "categories": [],
   "screenshots": [],
   "shortcuts": [],
+  "prefer_related_applications", true,
   "icons": [
      {
        "128": "/images/128.png"
