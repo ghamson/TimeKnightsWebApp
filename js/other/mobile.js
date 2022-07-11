@@ -1,4 +1,4 @@
-var romPath = "rom/game.gb";
+var romPath = "rom/game2022-07-11.gb";
 var mainCanvas = null;
 var soundReady = false;
 
