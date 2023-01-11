@@ -1,4 +1,4 @@
-var romPath = "rom/game.gb";
+var romPath = "rom/Magic & Legend - Time Knights (The Retro Room) v1.0 2022-11-14 (Final).gb";
 var mainCanvas = null;
 var soundReady = false;
 
